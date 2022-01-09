@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathan Pared
-- 👀 I’m interested in software development, coding, and gaming
-- 🌱 I’m currently learning JavaScript, React, HTML and CSS
+- 👀 I’m interested in web development, coding, and gaming
+- 🌱 I’m currently learning JavaScript, React, HTML, CSS, Python, PHP
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 How to reach me nathandevelops1@gmail.com
 
