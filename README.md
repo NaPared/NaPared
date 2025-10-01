@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathan Pared
-- 👀 I’m interested in web development, coding, and gaming
-- 🌱 I’m currently learning JavaScript, React, HTML, CSS, Python, C#
+- 👀 I’m interested in data analytics, or other data roles and gaming
+- 🌱 I’m currently working with Python, Pandas, Matplotlib, and Tableau.
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 How to reach me: nathandevelops1@gmail.com
 
